@@ -1,30 +1,25 @@
+# Weather Data Analysis 🌦️
 
-# Weather Data Analysis 
-
-This project is a simple **data analysis using Pandas** in a Jupyter Notebook.  
-The goal is to explore and answer different questions about a weather dataset by applying Pandas functions like filtering, grouping, and aggregation.
+A simple data analysis project using **Pandas** inside a **Jupyter Notebook**.
 
 ---
 
-## 📌 Features
-- Data cleaning with Pandas
-- Exploring dataset shape and info
+## 📌 Overview
+This project demonstrates how to use Pandas to explore and analyze a weather dataset.  
+The analysis includes:
+- Cleaning and preparing the dataset
 - Filtering rows based on conditions
-- Grouping and calculating mean values
-- Analyzing weather conditions
+- Grouping by weather condition and calculating mean values
 
 ---
 
-## 🛠️ Technologies Used
-- Python 🐍
-- Pandas 🐼
-- Jupyter Notebook 📓
+## 🛠️ Requirements
+Make sure you have the following installed:
+- Python 3.13.1
+- Pandas
+- Jupyter Notebook
 
----
+Install Pandas if not already installed:
+```bash
+pip install pandas
 
-## 📂 Project Files
-- `data_analysis.ipynb` → Jupyter Notebook with all solutions  
-- `Project 1 - Weather Dataset.csv` → Dataset   
-- `README.md` → Project documentation  
-
----
