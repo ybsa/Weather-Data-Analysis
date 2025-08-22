@@ -24,7 +24,7 @@ The goal is to explore and answer different questions about a weather dataset by
 
 ## 📂 Project Files
 - `data_analysis.ipynb` → Jupyter Notebook with all solutions  
-- `weather.csv` → Dataset (if small enough to upload)  
+- `Project 1 - Weather Dataset.csv` → Dataset   
 - `README.md` → Project documentation  
 
 ---
